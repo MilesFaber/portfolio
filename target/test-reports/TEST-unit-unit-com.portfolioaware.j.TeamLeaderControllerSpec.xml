@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Miles-Fabers-MacBook-Pro.local" name="com.portfolioaware.j.TeamLeaderControllerSpec" tests="7" time="3.908" timestamp="2014-09-24T20:14:06">
+  <properties />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test the index action returns the correct model" time="0.778" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test the create action returns the correct model" time="0.156" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test the save action correctly persists an instance" time="1.825" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test that the show action returns the correct model" time="0.157" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test that the edit action returns the correct model" time="0.209" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.304" />
+  <testcase classname="com.portfolioaware.j.TeamLeaderControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.429" />
+  <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+</testsuite>
